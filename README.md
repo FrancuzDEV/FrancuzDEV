@@ -8,7 +8,7 @@
 <h5>
 - 📫 Napisz do mnie! Discord: Francuz#5964<br>
 - 🌐 Strona Internetowa! <a href='#'>Kliknij mnie!</a><br>
-- 🌐 Organizacja! <a herf='https://mixstricindustrial.xyz/'>MixstricIndustrial.xyz</a><br>
+- 🌐 Organizacja! <a href='https://mixstricindustrial.xyz/'>< MixstricIndustrial.xyz /></a><br>
 - 👽 Przykładowy projekt! <a href='https://panel.mixstricindustrial.xyz/'>System Licencji</a><br>
 </h5>
 <h3>Używane języki, biblioteki</h3>
