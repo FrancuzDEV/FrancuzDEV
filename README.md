@@ -13,15 +13,15 @@
 </h5>
 <h3>Używane języki, biblioteki etc</h3>
 <h5>
-- PHP
-- Bootstrap
-- SQL
-- JSQuery
-- HTML 5
-- CSS 3
-- JS
-- Lua
-- C/C++
+- PHP <br>
+- Bootstrap <br>
+- SQL <br>
+- JSQuery <br>
+- HTML 5 <br>
+- CSS 3 <br>
+- JS <br>
+- Lua <br>
+- C/C++ <br>
 </h5>
 <h3>Statystyki Github</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancuzDEV&show_icons=true&locale=pl" alt="francys" /></p>
