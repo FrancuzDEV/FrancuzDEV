@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://francuz.space/#experience](https://francuz.space/#experience)
 
-- ⚡ Fun fact **I Create A FiveM Anti DDoS System**
+- ⚡ Fun fact **I Creating A FiveM Anti DDoS System Blocking Zeus Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
