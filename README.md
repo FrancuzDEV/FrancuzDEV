@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francuz</h1>
-<h3 align="center">I am a Polish Security Network Engineer</h3>
+<h3 align="center">I am a Polish Security Network Engineer and Polish Cyber Security Student</h3>
 
 
 - 🔭 I’m currently working on **DDoS-Dashboard**
