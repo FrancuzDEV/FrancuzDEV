@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://francuz.space/](https://francuz.space/)
 
-- 💬 Ask me about **php, lua, html, css, js, mysql**
+- 💬 Ask me about **php, lua, html, css, js, mysql, node.js (express.js, discord.js)**
 
 - 📫 How to reach me **contact@francuz.space**
 
