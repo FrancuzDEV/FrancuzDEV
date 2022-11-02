@@ -2,9 +2,9 @@
 <h3 align="center">I am a Polish Security Network Engineer and Polish Cyber Security Student</h3>
 
 
-- 🔭 I’m currently working on **DDoS-Dashboard**
+- 🔭 I’m currently working on **Anti DDoS-Dashboard**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 👯 I’m looking to collaborate on [DesertSolutions.space](https://desertsolutions.space/)
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://francuz.space/#experience](https://francuz.space/#experience)
 
-- ⚡ Fun fact **I Creating A FiveM Anti DDoS System Blocking Zeus Net**
+- ⚡ Fun fact **I Created A FiveM Anti DDoS System Blocking Zeus Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
