@@ -2,15 +2,15 @@
 <h3 align="center">I am a Polish Security Network Engineer and Polish Cyber Security Student</h3>
 
 
-- 🔭 I’m currently working on **Anti DDoS-Dashboard**
+- 🔭 I’m currently working on **DesertHost**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Express.js/Bash**
 
 - 👯 I’m looking to collaborate on [DesertSolutions.space](https://desertsolutions.space/)
 
 - 👨‍💻 All of my projects are available at [https://francuz.space/](https://francuz.space/)
 
-- 💬 Ask me about **php, lua, html, css, js, mysql, node.js (express.js, discord.js)**
+- 💬 Ask me about **php, lua, html, css, js, mysql, node.js (express.js, bash, discord.js)**
 
 - 📫 How to reach me **contact@francuz.space**
 
