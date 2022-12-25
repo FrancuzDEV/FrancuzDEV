@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francuz</h1>
 <h3 align="center">I am a Polish Security Network Engineer and Polish Cyber Security Student</h3>
 
-
 - 🔭 I’m currently working on **DesertHost**
 
 - 🌱 I’m currently learning **Express.js/Bash**
@@ -10,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://francuz.space/](https://francuz.space/)
 
-- 💬 Ask me about **php, lua, html, css, js, mysql, node.js (express.js, bash, discord.js)**
+- 💬 Ask me about **php, lua, html, css, js, mysql, bash, node.js (express.js, discord.js)**
 
 - 📫 How to reach me **contact@francuz.space**
 
