@@ -30,3 +30,17 @@
 <p><a href="https://www.buymeacoffee.com/francuz"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="francuz" /></a></p><br>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=francuzdev&show_icons=true&locale=pl&layout=compact" alt="francuzdev" /></p>
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FrancuzDEV&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/FrancuzDEV/desertshield-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancuzDEV&repo=desertshield-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="desertshield-app" />
+</a>
+
+<a href="https://github.com/FrancuzDEV/deserthost-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrancuzDEV&repo=deserthost-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
