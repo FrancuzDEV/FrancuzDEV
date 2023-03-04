@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Francuz</h1>
 <h3 align="center">I am a Polish Security Network Engineer and Polish Cyber Security Student</h3>
 
-- 🔭 I’m currently working on **DesertHost**
+- 🔭 I’m currently working on **ByteCloud.pl**
 
-- 🌱 I’m currently learning **Express.js/Bash**
+- 🌱 I’m currently learning **C# .NET**
 
-- 👯 I’m looking to collaborate on [DesertSolutions.space](https://desertsolutions.space/)
+- 👯 I’m working in [ByteTeam.pl](https://byteteam.pl/)
 
 - 👨‍💻 All of my projects are available at [https://francuz.space/](https://francuz.space/)
 
-- 💬 Ask me about **php, lua, html, css, js, mysql, bash, node.js (express.js, discord.js)**
+- 💬 Ask me about **php, lua, html, css, js, mysql, python, java, bash, node.js (express.js, discord.js)**
 
 - 📫 How to reach me **contact@francuz.space**
 
 - 📄 Know about my experiences [https://francuz.space/#experience](https://francuz.space/#experience)
 
-- ⚡ Fun fact **I Created A FiveM Anti DDoS System Blocking Zeus Net**
+- ⚡ Fun fact **Im creating Template Dashboard for hosting companies with virtualization, api etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
