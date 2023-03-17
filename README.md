@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Francuz</h1>
+<h3 align="center">I am a Polish Security Network Engineer and Polish Cyber Security Student</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on ByteCloud.pl<br><br>🌱 I’m currently learning C# .NET<br><br>👯 I’m working in ByteTeam.pl<br><br>👨‍💻 All of my projects are available at https://francuz.space/<br><br>💬 Ask me about php, lua, html, css, js, mysql, python, java, bash, node.js (express.js, discord.js)<br><br>📫 How to reach me contact@francuz.space<br><br>📄 Know about my experiences https://francuz.space/#experience<br><br>⚡ Fun fact Im creating Template Dashboard for hosting companies with virtualization, api etc
 
