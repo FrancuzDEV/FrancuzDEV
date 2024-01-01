@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Francuz from Poland<br><br>- 🔭 I’m working as Network Engineer in ByteCloud.pl<br>- 📚 I'm currently learning TypeScript and C/C++<br>- 🎖️ My best project is ByteCloud.pl</p>
+<p align="left">I'm Francuz from Poland<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning TypeScript and C/C++</p>
 
 ###
 
